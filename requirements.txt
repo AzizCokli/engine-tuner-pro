@@ -1,0 +1,4 @@
+PyQt6==6.11.0
+pyqtgraph==0.14.0
+qtawesome==1.4.2
+numpy==2.4.6
