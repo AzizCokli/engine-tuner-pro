@@ -1,5 +1,7 @@
 # Engine Tuner Pro v11
-![UI](screenshot.png)
+
+![Engine Tuner Pro](screenshot.png)
+
 Modern PyQt6 + pyqtgraph editor za rFactor, Automobilista, Assetto Corsa.
 
 ## 🚀 Run
@@ -8,5 +10,3 @@ Modern PyQt6 + pyqtgraph editor za rFactor, Automobilista, Assetto Corsa.
 ```bash
 git clone https://github.com/AzizCokli/engine-tuner-pro.git
 cd engine-tuner-pro
-pip install -r requirements.txt
-python EngineTuner_v11.py
